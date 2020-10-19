@@ -1,10 +1,7 @@
 def turn_count(board)
   count = 0
   board.each do |value|
-  
-    if board[index] = "X"
-      count += 1
-    end
+    puts "Player has played with #{value}"
 
 
 end
